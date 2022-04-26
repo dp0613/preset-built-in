@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@types/react-router-config": "5.0.2",
-    "@umijs/babel-preset-umi": "3.5.23",
+    "@umijs/babel-preset-umi": "dp0613/babel-preset-umi",
     "@umijs/bundler-webpack": "3.5.23",
     "@umijs/deps": "3.5.23",
     "@umijs/renderer-mpa": "3.5.23",
